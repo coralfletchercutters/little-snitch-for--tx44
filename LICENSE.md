@@ -1,4 +1,4 @@
-
+Enhance Little Snitch for macOS with updated Little Snitch for macOS Addon | secure-browsing + anti-tracking, the #1 addon. Includes secure-browsing and anti-tracking for a safer
 
 
 
